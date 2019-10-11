@@ -1,1 +1,2 @@
-# Project 3 - Analyze-A-B-Test-Results
+# Data-Analyst-Nanodegree
+# Project 3: Analyze-A-B-Test-Results
